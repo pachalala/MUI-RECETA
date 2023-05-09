@@ -13,13 +13,16 @@
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
     "@fontsource/roboto": "^4.5.8",
+    "@mui/lab": "^5.0.0-alpha.129",
     "@mui/material": "^5.12.2",
+    "@mui/styles": "^5.5.0",
+    "material-table": "^2.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.0"
   },
   "devDependencies": {
-    "@types/react": "^18.0.28",
+    "@types/react": "^18.2.0",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^4.0.0",
     "eslint": "^8.38.0",
